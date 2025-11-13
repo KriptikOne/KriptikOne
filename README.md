@@ -82,5 +82,5 @@
 
 <p align="center">
   <em><strong>Last updated: November 13, 2025</strong></em><br>
-  <strong style="font-size:1.8em; color:#f9c22e; text-shadow:0 3px 6px rgba(0,0,0,0.6);">HOĐL strong. Build loud. Stay based.</strong>
+  <strong style="font-size:1.8em; color:#f9c22e; text-shadow:0 3px 6px rgba(0,0,0,0.6);"> As a Wise Ape once said - HOĐL strong. Build loud. Stay based.</strong>
 </p>
